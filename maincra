@@ -1,0 +1,604 @@
+[11/12/2023 16:54:48 p. m.] Checking for updated files!
+[11/12/2023 16:54:48 p. m.] Checking for updates to CurseForge instances
+[11/12/2023 16:57:42 p. m.] Preparing for launch!
+[11/12/2023 16:57:43 p. m.] Launching pack Minecraft 1.20.1 (Vanilla) for Minecraft 1.20.1
+[11/12/2023 16:57:43 p. m.] Logging into Minecraft!
+[11/12/2023 16:57:43 p. m.] Using Java runtime java-runtime-gamma (Java 17.0.3) at path **USERSDIR**\runtimes\minecraft\java-runtime-gamma\windows-x64\java-runtime-gamma
+[11/12/2023 16:57:43 p. m.] Loader: Forge 47.2.17
+[11/12/2023 16:57:43 p. m.] Mods:
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\bclib-3.0.13$wunderlib-1.1.5.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\camerautils-1.20.1-1.0.5$fabric-api-base-0.4.29+b04edc7a82.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\camerautils-1.20.1-1.0.5$fabric-key-binding-api-v1-1.0.36+fb8d95da82.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\camerautils-1.20.1-1.0.5$fabric-lifecycle-events-v1-2.2.20+b3afc78b82.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\camerautils-1.20.1-1.0.5$fabric-resource-loader-v0-0.11.7+f7923f6d82.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-base-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-block-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-chunk-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-entity-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-item-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-level-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-scoreboard-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\cardinal-components-api-5.2.2$cardinal-components-world-5.2.2.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\completeconfig-2.5.0$completeconfig-base-2.5.0.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\completeconfig-2.5.0$completeconfig-gui-cloth-2.5.0.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\completeconfig-2.5.0$completeconfig-gui-yacl-2.5.0.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\dawn-5.0.0$cloth-config-fabric-11.0.99.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\dawn-5.0.0$terraform-shapes-api-v1-7.0.1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\dawn-5.0.0$terraform-wood-api-v1-7.0.1$mixinextras-fabric-0.2.0-beta.5.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\dawn-5.0.0$terraform-wood-api-v1-7.0.1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\do-a-barrel-roll-3.3.7+1.20-fabric$cicada-lib-0.5.0+1.20.1-minus$mixinextras-fabric-0.2.0.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\do-a-barrel-roll-3.3.7+1.20-fabric$cicada-lib-0.5.0+1.20.1-minus.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\do-a-barrel-roll-3.3.7+1.20-fabric$fabric-permissions-api-0.2-SNAPSHOT.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\do-a-barrel-roll-3.3.7+1.20-fabric$mixinsquared-fabric-0.1.1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\fastquit-3.0.0+1.20+$MixinExtras-0.1.1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\image2map-0.4.2+1.20$map-canvas-api-0.2.2+1.19.4.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\image2map-0.4.2+1.20$sgui-1.2.2+1.20.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\immersive-portals-3.3.7-mc1.20.1-fabric$cloth-config-fabric-11.0.99.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\immersive-portals-3.3.7-mc1.20.1-fabric$imm_ptl_core-3.3.7.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\immersive-portals-3.3.7-mc1.20.1-fabric$mixinextras-fabric-0.2.0-beta.9.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\immersive-portals-3.3.7-mc1.20.1-fabric$q_misc_util-3.3.7.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$amecsapi-1.20-1.5.1+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$coat-1.20-1.0.0-beta.20+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-api-base-0.4.30+7abfd51577.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-events-interaction-v0-0.6.1+e91849a877.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-item-api-v1-2.1.27+b3afc78b77.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-key-binding-api-v1-1.0.36+fb8d95da77.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-lifecycle-events-v1-2.2.21+b3afc78b77.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-networking-api-v1-1.3.9+b3afc78b77.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-registry-sync-v0-2.3.0+2e061fd477.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-resource-loader-v0-0.11.9+132c48c177.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$fabric-screen-api-v1-2.0.7+b3afc78b77.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-annotated-1.20-1.3.1+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-base-1.20-1.7.1+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-data-1.20-1.2.1+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-data-hjson-1.20-1.1.1+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-tailor-coat-1.20-1.1.3+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-tailor-lang-json-descriptions-1.20-1.1.0+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\mousewheelie-1.13.0+mc1.20.1$tweed4-tailor-screen-1.20-1.1.4+mc1.20-pre1.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\PresenceFootsteps-1.9.1$kirin-1.15.4+1.20.jar
+[11/12/2023 16:57:43 p. m.]  - \.connector\temp\repurposed_structures-7.1.11+1.20.1-fabric$mixinextras-fabric-0.2.0-beta.7.jar
+[11/12/2023 16:57:43 p. m.]  - \additionaladditions-6.0.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \AdditionalBanners-Forge-1.20.1-14.0.4.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \additionallanterns-1.1.1-fabric-mc1.20.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \alexscaves-1.0.8.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \Amplified_Nether_1.20.2_v1.2.3.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \another_furniture-forge-1.20.1-3.0.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \appleskin-forge-mc1.20.1-2.5.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \artansprojectcoremod-mc1.20.1-3.0.2-realase-file.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \azurelib-neo-1.20.1-2.0.16.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \balm-forge-1.20.1-7.2.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \basicweapons-forge-mc1.20.1+1.2.0.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \beautifiedchatclient-1.20.1-2.3.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \beautifiedchatserver-1.20.1-2.3.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \BedBenefits-Forge-1.20.1-13.0.2.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \bedspreads-forge-6.2.0+1.20.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \better-bosses-0.2.2.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \bettercombat-forge-1.8.1+1.20.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \BetterF3-7.0.2-Forge-1.20.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \BetterPingDisplay-1.20.1-1.1.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \BetterThirdPerson-Forge-1.20-1.9.0.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \Beyond-Earth-1.20.1-7.0-SNAPSHOT.jar (Added)
+[11/12/2023 16:57:43 p. m.]  - \blur-forge-3.1.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \BOMD-Forge-1.20.1-1.0.4.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Bookshelf-Forge-1.20.1-20.1.6.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \canary-mc1.20.1-0.2.7.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ChunkAnimator-1.20.1-1.3.7.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \citadel-2.4.9-1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \cloth-config-12.0.109-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Clumps-forge-1.20.1-12.0.0.3.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \collective-1.20.1-7.15.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \comforts-forge-6.3.4+1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Companion-1.20.1-forge-5.0.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Connector-1.0.0-beta.29+1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ConnectorExtras-1.7.0+1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Controlling-forge-1.20.1-12.0.2.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ctov-3.3.6.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \customizableelytra-forge-2.1.1+1.20.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \dark-waters-connector-1.20.1-0.0.22.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \DarkPaintings-Forge-1.20.1-17.0.4.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \DiagonalFences-v8.1.3-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \dynamiclights-v1.7-mc1.17x-1.20x-mod.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \EasyMagic-v8.0.1-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \EasyShulkerBoxes-v8.0.1-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \embeddium-0.2.12+mc1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \emi-1.0.27+1.20.1+forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \EnchantmentDescriptions-Forge-1.20.1-17.0.9.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \endrem_forge-5.2.3-R-1.20.X.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \exordium-forge-1.2.0-mc1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \fabric-api-0.90.7+1.10.3+1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Fallingleaves-1.20.1-2.1.0.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Fastload-Reforged-mc1.20.1-3.4.0.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ferritecore-6.0.1-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \firearrows-1.20.1-11-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \forgery-3.4.0+1.20.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \furnacerecycle-1.20.1-2.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \geckolib-forge-1.20.1-4.3.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \geophilic-v2.1.0-mc1.20u1.20.2.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \HeldItemTooltips-v8.0.0-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Iceberg-1.20.1-forge-1.1.16.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ImmediatelyFast-Forge-1.2.8+1.20.4.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \immersive_paintings-0.6.7+1.20.1-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \InvMove-1.20-0.8.4-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \ItemBorders-1.20.1-forge-1.2.0.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \jumpoverfences-forge-1.20.1-1.3.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \JustQuicksand-1.20.1-1.3-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \Kiwi-1.20.1-forge-11.1.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \kotlinforforge-4.8.0-all.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \lazurite-1.0.1+mc1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \LeavesBeGone-v8.0.0-1.20.1-Forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \LegendaryTooltips-1.20.1-forge-1.4.5.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \LetSleepingDogsLie-1.20.1-Forge-1.2.0.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \memoryleakfix-forge-1.17+-1.1.2.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \midnightlib-forge-1.4.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \mob-captains-v2.1.2.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \modernfix-forge-5.10.0+mc1.20.1.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \moonlight-1.20-2.8.67-forge.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \moremobvariants-forge+1.20-1.2.2.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \MyServerIsCompatible-1.20-1.0.jar (Added)
+[11/12/2023 16:57:44 p. m.]  - \notenoughanimations-forge-1.6.4-mc1.20.jar (Added)
+[11/12/2023 16:57:45 p. m.] [main/INFO] ModLauncher running: args [--username, **MINECRAFTUSERNAME**, --version, 1.20.1, --gameDir, **USERSDIR**\instances\Minecraft1201withForge, --assetsDir, **USERSDIR**\assets, --assetIndex, 5, --uuid, **UUID**, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width=854, --height=480]
+[11/12/2023 16:57:45 p. m.] [main/INFO] ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.3 by Microsoft; OS Windows 10 arch amd64 version 10.0
+[11/12/2023 16:57:46 p. m.] [main/INFO] Loading ImmediateWindowProvider fmlearlywindow
+[11/12/2023 16:57:47 p. m.] [main/INFO] Trying GL version 4.6
+[11/12/2023 16:57:47 p. m.] [main/INFO] Requested GL version 4.6 got version 4.6
+[11/12/2023 16:57:47 p. m.] [main/INFO] Mixin Transmogrifier is definitely up to no good...
+[11/12/2023 16:57:47 p. m.] [main/INFO] crimes against java were committed
+[11/12/2023 16:57:47 p. m.] [main/INFO] Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[11/12/2023 16:57:47 p. m.] [main/INFO] SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/oliva/AppData/Roaming/ATLauncher/instances/Minecraft1201withForge/mods/Connector-1.0.0-beta.29+1.20.1.jar%23295%23298!/ Service=ModLauncher Env=CLIENT
+[11/12/2023 16:57:47 p. m.] [pool-2-thread-1/INFO] GL info: NVIDIA GeForce GTX 1650 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 546.29, NVIDIA Corporation
+[11/12/2023 16:57:47 p. m.] [main/INFO] Found mod file Connector-1.0.0-beta.29+1.20.1-mod.jar of type MOD with provider dev.su5ed.sinytra.connector.locator.ConnectorEarlyLocator@35ff8fc9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file additionaladditions-6.0.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file AdditionalBanners-Forge-1.20.1-14.0.4.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file alexscaves-1.0.8.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Amplified_Nether_1.20.2_v1.2.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file another_furniture-forge-1.20.1-3.0.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file appleskin-forge-mc1.20.1-2.5.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file artansprojectcoremod-mc1.20.1-3.0.2-realase-file.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file azurelib-neo-1.20.1-2.0.16.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file balm-forge-1.20.1-7.2.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file basicweapons-forge-mc1.20.1+1.2.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file beautifiedchatclient-1.20.1-2.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file beautifiedchatserver-1.20.1-2.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file BedBenefits-Forge-1.20.1-13.0.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file bedspreads-forge-6.2.0+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file better-bosses-0.2.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file bettercombat-forge-1.8.1+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file BetterF3-7.0.2-Forge-1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file BetterPingDisplay-1.20.1-1.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file BetterThirdPerson-Forge-1.20-1.9.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Beyond-Earth-1.20.1-7.0-SNAPSHOT.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file blur-forge-3.1.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file BOMD-Forge-1.20.1-1.0.4.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Bookshelf-Forge-1.20.1-20.1.6.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file canary-mc1.20.1-0.2.7.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ChunkAnimator-1.20.1-1.3.7.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file citadel-2.4.9-1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file cloth-config-12.0.109-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Clumps-forge-1.20.1-12.0.0.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file collective-1.20.1-7.15.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file comforts-forge-6.3.4+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Companion-1.20.1-forge-5.0.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ConfiguredDefaults-v8.0.1-1.20.1-Forge.jar of type LANGPROVIDER with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ConnectorExtras-1.7.0+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Controlling-forge-1.20.1-12.0.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ctov-3.3.6.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file customizableelytra-forge-2.1.1+1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file DarkPaintings-Forge-1.20.1-17.0.4.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file DiagonalFences-v8.1.3-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file dynamiclights-v1.7-mc1.17x-1.20x-mod.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file EasyMagic-v8.0.1-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file EasyShulkerBoxes-v8.0.1-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file embeddium-0.2.12+mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file emi-1.0.27+1.20.1+forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file EnchantmentDescriptions-Forge-1.20.1-17.0.9.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file endrem_forge-5.2.3-R-1.20.X.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file exordium-forge-1.2.0-mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-api-0.90.7+1.10.3+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Fallingleaves-1.20.1-2.1.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Fastload-Reforged-mc1.20.1-3.4.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ferritecore-6.0.1-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file firearrows-1.20.1-11-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file forgery-3.4.0+1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file furnacerecycle-1.20.1-2.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file geckolib-forge-1.20.1-4.3.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file geophilic-v2.1.0-mc1.20u1.20.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file HeldItemTooltips-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Iceberg-1.20.1-forge-1.1.16.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ImmediatelyFast-Forge-1.2.8+1.20.4.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file immersive_paintings-0.6.7+1.20.1-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file InvMove-1.20-0.8.4-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ItemBorders-1.20.1-forge-1.2.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file jumpoverfences-forge-1.20.1-1.3.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file JustQuicksand-1.20.1-1.3-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Kiwi-1.20.1-forge-11.1.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file kotlinforforge-4.8.0-all.jar of type LIBRARY with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file lazurite-1.0.1+mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file LeavesBeGone-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file LegendaryTooltips-1.20.1-forge-1.4.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file LetSleepingDogsLie-1.20.1-Forge-1.2.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file memoryleakfix-forge-1.17+-1.1.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file midnightlib-forge-1.4.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file mob-captains-v2.1.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file modernfix-forge-5.10.0+mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file moonlight-1.20-2.8.67-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file more_mobs-v1.5-mc1.14x-1.20x-mod.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file moremobvariants-forge+1.20-1.2.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file MyServerIsCompatible-1.20-1.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file notenoughanimations-forge-1.6.4-mc1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file notenoughcrashes-4.4.6+1.20.1-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file nyfsspiders-forge-1.20.1-2.1.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file oculus-mc1.20.1-1.6.9.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file online-emotes-2.1.2-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file panorama_screens-1.0+forge+mc1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file ParCool-1.20.1-3.1.0.6-R.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file phantasmic-1.20.1-0.2.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file PickUpNotifier-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file plasmovoice-forge-1.20.1-2.0.7.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file player-animation-lib-forge-1.0.2-rc1+1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Prism-1.20.1-forge-1.0.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file PuzzlesLib-v8.1.11-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file raw-ores-processing-1.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file RegionsUnexploredForge-0.5.3+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file replanter-1.4.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Rex's-AdditionalStructures-1.20.x-(v.4.2.1).jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file saturn-mc1.20.1-0.0.10.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Searchables-forge-1.20.1-1.0.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file servercore-forge-1.3.9+1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file SimpleTeleportersReloaded-mc1.20.1-1.1.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file SmartBrainLib-neoforge-1.20.1-1.12.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file smeltingsand-1.20.1-11-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file smoothboot-mc1.20.1-0.0.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file SnowRealMagic-1.20.1-forge-9.1.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file soundphysics-forge-1.20.1-1.3.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file StylishEffects-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file supplementaries-1.20-2.7.7.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file TerraBlender-forge-1.20.1-3.0.0.169.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Terralith_1.20.4_v2.4.11.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file textrues_embeddium_options-0.1.3+mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file tia-1.20-1.1-forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file timecontrol-1.20.1-1.4.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file toms_storage-1.20-1.6.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file TravelersBackpack-1.20.1-9.1.11.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file TravelersTitles-1.20-Forge-4.0.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file vanillazoom-1.20.1-2.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file villagesandpillages-forge-mc1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file visuality-forge-2.0.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file VisualWorkbench-v8.0.0-1.20.1-Forge.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file weaponmaster-multi-forge-1.20.1-3.0.6.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file WWOO-FABRIC+FORGE+QUILT-2.0.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file X-HP-1.20.1-1.0.3-SNAPSHOT.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Xaeros_Minimap_23.9.3_Forge_1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file XaerosWorldMap_1.37.2_Forge_1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file xercapaint-1.20.1-1.0.0.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file yet-another-config-lib-forge-3.2.1+1.20.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YungsApi-1.20-Forge-4.0.2.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YungsBetterDesertTemples-1.20-Forge-3.0.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YungsBetterDungeons-1.20-Forge-4.0.3.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YungsBetterMineshafts-1.20-Forge-4.0.4.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file YungsBetterNetherFortresses-1.20-Forge-2.0.5.jar of type MOD with provider {mods folder locator at **USERSDIR**\instances\Minecraft1201withForge\mods}
+[11/12/2023 16:57:48 p. m.] [main/WARN] Mod file **USERSDIR**\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.17\fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
+[11/12/2023 16:57:48 p. m.] [main/WARN] Mod file **USERSDIR**\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.17\javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[11/12/2023 16:57:48 p. m.] [main/WARN] Mod file **USERSDIR**\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.17\lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[11/12/2023 16:57:48 p. m.] [main/WARN] Mod file **USERSDIR**\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.17\mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fmlcore-1.20.1-47.2.17.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file javafmllanguage-1.20.1-47.2.17.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file lowcodelanguage-1.20.1-47.2.17.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file mclanguage-1.20.1-47.2.17.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file client-1.20.1-20230612.114412-srg.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file forge-1.20.1-47.2.17-universal.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@64a4dd8d
+[11/12/2023 16:57:48 p. m.] [main/WARN] Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found 82 dependencies adding them to mods collection
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-transfer-api-v1-3.3.2+51502a0077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file NanoLiveConfig-1.2.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-dimensions-v1-2.1.53+8005d10d77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-renderer-api-v1-3.2.0+1d29b44577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file puzzlesapi-forge-8.1.4.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file imageio-core-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file satin-forge-1.20.1+1.15.0-SNAPSHOT.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-model-loading-api-v1-1.0.2+142e25ab77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-item-api-v1-2.1.27+2272fc7f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file netty-codec-http-4.1.82.Final.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file kfflang-4.8.0.jar of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file modmenu-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-rendering-fluids-v1-3.0.27+4ac5e37a77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-screen-handler-api-v1-1.3.29+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file mclib-20.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-resource-loader-v0-0.11.9+142e25ab77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-models-v0-0.4.1+7c3892a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file imageio-webp-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-rendering-v1-3.0.7+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-renderer-indigo-1.5.0+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-convention-tags-v1-1.5.4+fa3d1c0177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-mining-level-api-v1-2.1.49+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-command-api-v1-1.2.33+f71b366f77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file common-lang-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-command-api-v2-2.2.12+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-block-view-api-v2-1.0.0+0767707077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file common-image-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file MixinSquared-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file mixinextras-forge-0.3.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file rei-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file geckolib-fabric-compat-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file continuity-compat-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-screen-api-v1-2.0.7+45a670a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file energy-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file common-io-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-particles-v1-1.1.1+78e1ecb877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file puzzlesaccessapi-forge-8.0.7.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file gson-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-content-registries-v0-4.0.10+a670df1e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file guice-5.0.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file terrablender-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-transitive-access-wideners-v1-4.3.0+1880499877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file diagonalblocks-forge-8.0.2.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file MixinExtras-0.3.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-game-rule-api-v1-1.0.39+461110ab77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-api-base-0.4.30+ef105b4977.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-api-lookup-api-v1-1.6.35+67f9824077.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-blockrenderlayer-v1-1.1.40+1d0da21e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file mixinsquared-forge-0.1.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file amecsapi-1.5.3+mc1.20-pre1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file json-0.2.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file spectrelib-forge-0.13.14+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-block-api-v1-1.0.10+0e6cb7f777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file javax.inject-1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file reach-entity-attributes-2.4.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-resource-conditions-api-v1-2.3.6+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file forgeconfigapiport-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file kfflib-4.8.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file kffmod-4.8.0.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file architectury-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Connector-1.0.0-beta.29+1.20.1-fabricloader.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-item-group-api-v1-4.0.11+9801bf5177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file extras-utils-1.7.0+1.20.1.jar of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file imageio-metadata-3.10.0-SNAPSHOT.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file Reflect-1.3.1.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-biome-api-v1-13.0.12+dd0389a577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-entity-events-v1-1.5.22+b909fbe377.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-registry-sync-v0-2.3.2+1c0ea72177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-recipe-api-v1-1.0.20+514a076577.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-object-builder-api-v1-11.1.2+2174fc8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file aopalliance-1.0.jar of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-loot-api-v2-1.2.0+eb28f93e77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-rendering-data-attachment-v1-0.3.36+a6081afc77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-networking-api-v1-1.3.10+503a202477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-sound-api-v1-1.0.12+4f23bd8477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-message-api-v1-5.1.8+52cc178c77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file emi-bridge-1.7.0+1.20.1.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-lifecycle-events-v1-2.2.21+afab492177.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-data-generation-api-v1-12.3.2+369cb3a477.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-events-interaction-v0-0.6.1+0d0bd5a777.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-key-binding-api-v1-1.0.36+561530ec77.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:48 p. m.] [main/INFO] Found mod file fabric-client-tags-api-v1-1.1.1+5d6761b877.jar of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator@61ecbee9
+[11/12/2023 16:57:49 p. m.] [main/INFO] Fabric mod metadata not found in jar ConfiguredDefaults.v8._0._1.Forge, ignoring
+[11/12/2023 16:57:49 p. m.] [main/INFO] Fabric mod metadata not found in jar thedarkcolour.kotlinforforge, ignoring
+[11/12/2023 16:57:49 p. m.] [main/INFO] Dependency resolution found 3 candidates to load
+[11/12/2023 16:57:54 p. m.] [main/INFO] Found mod file additionallanterns-1.1.1-fabric-mc1.20_mapped_srg_1.20.1.jar of type MOD with provider dev.su5ed.sinytra.connector.locator.ConnectorLocator@58dad04a
+[11/12/2023 16:57:54 p. m.] [main/INFO] Found mod file dark-waters-connector-1.20.1-0.0.22_mapped_srg_1.20.1.jar of type MOD with provider dev.su5ed.sinytra.connector.locator.ConnectorLocator@58dad04a
+[11/12/2023 16:57:54 p. m.] [main/INFO] Found mod file supermartijn642corelib-1.1.16-fabric-mc1.20.1_mapped_srg_1.20.1.jar of type MOD with provider dev.su5ed.sinytra.connector.locator.ConnectorLocator@58dad04a
+[11/12/2023 16:57:54 p. m.] [main/INFO] Applying default files...
+[11/12/2023 16:57:54 p. m.] [main/INFO] Successfully made module authlib transformable
+[11/12/2023 16:57:56 p. m.] [main/INFO] Compatibility level set to JAVA_17
+[11/12/2023 16:57:57 p. m.] [main/INFO] Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[11/12/2023 16:57:57 p. m.] [main/INFO] Successfully loaded Mixin Connector [lumien.chunkanimator.MixinConnector]
+[11/12/2023 16:57:57 p. m.] [main/INFO] Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, **USERSDIR**\instances\Minecraft1201withForge, --assetsDir, **USERSDIR**\assets, --uuid, **UUID**, --username, **MINECRAFTUSERNAME**, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --width=854, --height=480]
+[11/12/2023 16:57:57 p. m.] [main/INFO] Loaded configuration file for ModernFix 5.10.0+mc1.20.1: 71 options available, 1 override(s) found
+[11/12/2023 16:57:57 p. m.] [main/WARN] Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[11/12/2023 16:57:57 p. m.] [main/INFO] Applying Nashorn fix
+[11/12/2023 16:57:57 p. m.] [main/INFO] Applied Forge config corruption patch
+[11/12/2023 16:57:57 p. m.] [main/INFO] Loaded configuration file for Embeddium: 42 options available, 3 override(s) found
+[11/12/2023 16:57:57 p. m.] [main/WARN] Reference map 'emi-forge-refmap.json' for emi-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11/12/2023 16:57:57 p. m.] [main/INFO] Loaded configuration file for Canary: 123 options available, 0 override(s) found
+[11/12/2023 16:57:57 p. m.] 	- additionaladditions 6.0.1
+[11/12/2023 16:57:57 p. m.] 	- additionalbanners 14.0.4
+[11/12/2023 16:57:57 p. m.] 	- additionallanterns 1.1.1
+[11/12/2023 16:57:57 p. m.] 	- additionalstructures 4.2.1
+[11/12/2023 16:57:57 p. m.] 	- alexscaves 1.0.8
+[11/12/2023 16:57:57 p. m.] 	- amecsapi 1.5.3+mc1.20-pre1
+[11/12/2023 16:57:57 p. m.] 	- amplifiednether 1.2.3
+[11/12/2023 16:57:57 p. m.] 	- another_furniture 1.20.1-3.0.1
+[11/12/2023 16:57:57 p. m.] 	- appleskin 2.5.1+mc1.20.1
+[11/12/2023 16:57:57 p. m.] 	- artansprojectcoremod 3.0.2
+[11/12/2023 16:57:57 p. m.] 	- azurelib 2.0.16
+[11/12/2023 16:57:57 p. m.] 	- balm 7.2.1
+[11/12/2023 16:57:57 p. m.] 	- basicweapons 1.2.0
+[11/12/2023 16:57:57 p. m.] 	- beautifiedchatclient 2.3
+[11/12/2023 16:57:57 p. m.] 	- beautifiedchatserver 2.3
+[11/12/2023 16:57:57 p. m.] 	- bedbenefits 13.0.2
+[11/12/2023 16:57:57 p. m.] 	- bedspreads 6.2.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- bettercombat 1.8.1+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- betterdeserttemples 1.20-Forge-3.0.3
+[11/12/2023 16:57:57 p. m.] 	- betterdungeons 1.20-Forge-4.0.3
+[11/12/2023 16:57:57 p. m.] 	- betterf3 7.0.2
+[11/12/2023 16:57:57 p. m.] 	- betterfortresses 1.20-Forge-2.0.5
+[11/12/2023 16:57:57 p. m.] 	- bettermineshafts 1.20-Forge-4.0.4
+[11/12/2023 16:57:57 p. m.] 	- betteroceanmonuments 1.20-Forge-3.0.4
+[11/12/2023 16:57:57 p. m.] 	- betterpingdisplay 1.1
+[11/12/2023 16:57:57 p. m.] 	- betterstrongholds 1.20-Forge-4.0.3
+[11/12/2023 16:57:57 p. m.] 	- betterthirdperson 1.9.0
+[11/12/2023 16:57:57 p. m.] 	- beyond_earth 7.0-SNAPSHOT
+[11/12/2023 16:57:57 p. m.] 	- blur 3.1.1
+[11/12/2023 16:57:57 p. m.] 	- bookshelf 20.1.6
+[11/12/2023 16:57:57 p. m.] 	- bosses_of_mass_destruction 1.0.4
+[11/12/2023 16:57:57 p. m.] 	- canary 0.2.7
+[11/12/2023 16:57:57 p. m.] 	- chunkanimator 1.20.1-1.3.7
+[11/12/2023 16:57:57 p. m.] 	- citadel 2.4.9
+[11/12/2023 16:57:57 p. m.] 	- cloth_config 12.0.109
+[11/12/2023 16:57:57 p. m.] 	- clumps 12.0.0.3
+[11/12/2023 16:57:57 p. m.] 	- collective 7.15
+[11/12/2023 16:57:57 p. m.] 	- comforts 6.3.4+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- companion 5.0.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_architectury_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_continuity_compat 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_emi_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_energy_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_geckolib_fabric_compat 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_modmenu_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_rei_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectorextras_terrablender_bridge 1.7.0+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- connectormod 1.0.0-beta.29+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- controlling 12.0.2
+[11/12/2023 16:57:57 p. m.] 	- ctov 3.3.6
+[11/12/2023 16:57:57 p. m.] 	- customizableelytra 2.1.1+1.20
+[11/12/2023 16:57:57 p. m.] 	- darkpaintings 17.0.4
+[11/12/2023 16:57:57 p. m.] 	- darkwaters 0.0.22
+[11/12/2023 16:57:57 p. m.] 	- diagonalblocks 8.0.2
+[11/12/2023 16:57:57 p. m.] 	- diagonalfences 8.1.3
+[11/12/2023 16:57:57 p. m.] 	- dogslie 1.2.0
+[11/12/2023 16:57:57 p. m.] 	- dynamiclights 1.7+mod
+[11/12/2023 16:57:57 p. m.] 	- easymagic 8.0.1
+[11/12/2023 16:57:57 p. m.] 	- easyshulkerboxes 8.0.1
+[11/12/2023 16:57:57 p. m.] 	- embeddium 0.2.12+mc1.20.1
+[11/12/2023 16:57:57 p. m.] 	- emi 1.0.27+1.20.1+forge
+[11/12/2023 16:57:57 p. m.] 	- emotecraft 2.2.7-b.build.50
+[11/12/2023 16:57:57 p. m.] 	- enchdesc 17.0.9
+[11/12/2023 16:57:57 p. m.] 	- endrem 5.2.3-R-1.20.1
+[11/12/2023 16:57:57 p. m.] 	- exordium 1.2.0
+[11/12/2023 16:57:57 p. m.] 	- fabric_api 0.90.7+1.10.3+1.20.1
+[11/12/2023 16:57:57 p. m.] 	- fabric_api_base 0.4.30+ef105b4977
+[11/12/2023 16:57:57 p. m.] 	- fabric_api_lookup_api_v1 1.6.35+67f9824077
+[11/12/2023 16:57:57 p. m.] 	- fabric_biome_api_v1 13.0.12+dd0389a577
+[11/12/2023 16:57:57 p. m.] 	- fabric_block_api_v1 1.0.10+0e6cb7f777
+[11/12/2023 16:57:57 p. m.] 	- fabric_block_view_api_v2 1.0.0+0767707077
+[11/12/2023 16:57:57 p. m.] 	- fabric_blockrenderlayer_v1 1.1.40+1d0da21e77
+[11/12/2023 16:57:57 p. m.] 	- fabric_client_tags_api_v1 1.1.1+5d6761b877
+[11/12/2023 16:57:57 p. m.] 	- fabric_command_api_v1 1.2.33+f71b366f77
+[11/12/2023 16:57:57 p. m.] 	- fabric_command_api_v2 2.2.12+561530ec77
+[11/12/2023 16:57:57 p. m.] 	- fabric_content_registries_v0 4.0.10+a670df1e77
+[11/12/2023 16:57:57 p. m.] 	- fabric_convention_tags_v1 1.5.4+fa3d1c0177
+[11/12/2023 16:57:57 p. m.] 	- fabric_data_generation_api_v1 12.3.2+369cb3a477
+[11/12/2023 16:57:57 p. m.] 	- fabric_dimensions_v1 2.1.53+8005d10d77
+[11/12/2023 16:57:57 p. m.] 	- fabric_entity_events_v1 1.5.22+b909fbe377
+[11/12/2023 16:57:57 p. m.] 	- fabric_events_interaction_v0 0.6.1+0d0bd5a777
+[11/12/2023 16:57:57 p. m.] 	- fabric_game_rule_api_v1 1.0.39+461110ab77
+[11/12/2023 16:57:57 p. m.] 	- fabric_item_api_v1 2.1.27+2272fc7f77
+[11/12/2023 16:57:57 p. m.] 	- fabric_item_group_api_v1 4.0.11+9801bf5177
+[11/12/2023 16:57:57 p. m.] 	- fabric_key_binding_api_v1 1.0.36+561530ec77
+[11/12/2023 16:57:58 p. m.] 	- fabric_lifecycle_events_v1 2.2.21+afab492177
+[11/12/2023 16:57:58 p. m.] 	- fabric_loot_api_v2 1.2.0+eb28f93e77
+[11/12/2023 16:57:58 p. m.] 	- fabric_message_api_v1 5.1.8+52cc178c77
+[11/12/2023 16:57:58 p. m.] 	- fabric_mining_level_api_v1 2.1.49+561530ec77
+[11/12/2023 16:57:58 p. m.] 	- fabric_model_loading_api_v1 1.0.2+142e25ab77
+[11/12/2023 16:57:58 p. m.] 	- fabric_models_v0 0.4.1+7c3892a477
+[11/12/2023 16:57:58 p. m.] 	- fabric_networking_api_v1 1.3.10+503a202477
+[11/12/2023 16:57:58 p. m.] 	- fabric_object_builder_api_v1 11.1.2+2174fc8477
+[11/12/2023 16:57:58 p. m.] 	- fabric_particles_v1 1.1.1+78e1ecb877
+[11/12/2023 16:57:58 p. m.] 	- fabric_recipe_api_v1 1.0.20+514a076577
+[11/12/2023 16:57:58 p. m.] 	- fabric_registry_sync_v0 2.3.2+1c0ea72177
+[11/12/2023 16:57:58 p. m.] 	- fabric_renderer_api_v1 3.2.0+1d29b44577
+[11/12/2023 16:57:58 p. m.] 	- fabric_renderer_indigo 1.5.0+67f9824077
+[11/12/2023 16:57:58 p. m.] 	- fabric_rendering_data_attachment_v1 0.3.36+a6081afc77
+[11/12/2023 16:57:58 p. m.] 	- fabric_rendering_fluids_v1 3.0.27+4ac5e37a77
+[11/12/2023 16:57:58 p. m.] 	- fabric_rendering_v1 3.0.7+1c0ea72177
+[11/12/2023 16:57:58 p. m.] 	- fabric_resource_conditions_api_v1 2.3.6+369cb3a477
+[11/12/2023 16:57:58 p. m.] 	- fabric_resource_loader_v0 0.11.9+142e25ab77
+[11/12/2023 16:57:58 p. m.] 	- fabric_screen_api_v1 2.0.7+45a670a577
+[11/12/2023 16:57:58 p. m.] 	- fabric_screen_handler_api_v1 1.3.29+561530ec77
+[11/12/2023 16:57:58 p. m.] 	- fabric_sound_api_v1 1.0.12+4f23bd8477
+[11/12/2023 16:57:58 p. m.] 	- fabric_transfer_api_v1 3.3.2+51502a0077
+[11/12/2023 16:57:58 p. m.] 	- fabric_transitive_access_wideners_v1 4.3.0+1880499877
+[11/12/2023 16:57:58 p. m.] 	- fabrication 3.4.0+1.20
+[11/12/2023 16:57:58 p. m.] 	- fallingleaves 2.1.0
+[11/12/2023 16:57:58 p. m.] 	- fastload 3.4.0
+[11/12/2023 16:57:58 p. m.] 	- ferritecore 6.0.1
+[11/12/2023 16:57:58 p. m.] 	- firearrows 1.20.1-11-forge
+[11/12/2023 16:57:58 p. m.] 	- forge 47.2.17
+[11/12/2023 16:57:58 p. m.] 	- forgeconfigapiport 8.0.0
+[11/12/2023 16:57:58 p. m.] 	- forgeconfigscreens 8.0.2
+[11/12/2023 16:57:58 p. m.] 	- furnacerecycle 2.1
+[11/12/2023 16:57:58 p. m.] 	- geckolib 4.3.1
+[11/12/2023 16:57:58 p. m.] 	- geophilic 2.1.0-mc1.20u1.20.2
+[11/12/2023 16:57:58 p. m.] 	- helditemtooltips 8.0.0
+[11/12/2023 16:57:58 p. m.] 	- iceberg 1.1.16
+[11/12/2023 16:57:58 p. m.] 	- immediatelyfast 1.2.8+1.20.4
+[11/12/2023 16:57:58 p. m.] 	- immersive_paintings 0.6.7+1.20.1
+[11/12/2023 16:57:58 p. m.] 	- invmove 0.8.4
+[11/12/2023 16:57:58 p. m.] 	- iris 1.6.9
+[11/12/2023 16:57:58 p. m.] 	- itemborders 1.2.0
+[11/12/2023 16:57:58 p. m.] 	- jumpoverfences 1.3.1
+[11/12/2023 16:57:58 p. m.] 	- kiwi 11.1.1
+[11/12/2023 16:57:58 p. m.] [main/INFO] Reloading configs...
+[11/12/2023 16:57:58 p. m.] [main/INFO] Loading of features.ini done in 16.34 ms with 0 warnings
+[11/12/2023 16:57:58 p. m.] [main/INFO] Loaded configuration file for Sodium Extra: 34 options available, 0 override(s) found
+[11/12/2023 16:57:58 p. m.] [main/WARN] Reference map 'online-emotes-forge-refmap.json' for online-emotes.mixins.json could not be read. If this is a development environment you can ignore this message
+[11/12/2023 16:57:58 p. m.] [main/WARN] Reference map 'immersive_paintings-common-refmap.json' for immersive_paintings.mixin.json could not be read. If this is a development environment you can ignore this message
+[11/12/2023 16:57:58 p. m.] [main/WARN] Error loading class: sereneseasons/handler/season/RandomUpdateHandler (java.lang.ClassNotFoundException: sereneseasons.handler.season.RandomUpdateHandler)
+[11/12/2023 16:57:58 p. m.] [main/WARN] @Mixin target sereneseasons.handler.season.RandomUpdateHandler was not found snowrealmagic.mixins.json:sereneseasons.RandomUpdateHandlerMixin from mod snowrealmagic
+[11/12/2023 16:57:58 p. m.] [main/WARN] Error loading class: vectorwing/farmersdelight/client/renderer/CanvasSignRenderer (java.lang.ClassNotFoundException: vectorwing.farmersdelight.client.renderer.CanvasSignRenderer)
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.entity.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.entity.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [iris]) disables it and children
+[11/12/2023 16:57:58 p. m.] [main/WARN] Error loading class: mezz/jei/library/load/PluginCaller (java.lang.ClassNotFoundException: mezz.jei.library.load.PluginCaller)
+[11/12/2023 16:57:59 p. m.] [main/WARN] Error loading class: com/illusivesoulworks/colytra/client/ColytraLayer (java.lang.ClassNotFoundException: com.illusivesoulworks.colytra.client.ColytraLayer)
+[11/12/2023 16:57:59 p. m.] [main/WARN] Error loading class: com/illusivesoulworks/elytraslot/client/ElytraSlotLayer (java.lang.ClassNotFoundException: com.illusivesoulworks.elytraslot.client.ElytraSlotLayer)
+[11/12/2023 16:57:59 p. m.] [main/WARN] Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundContainerObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundContainerObjectSelectionList)
+[11/12/2023 16:57:59 p. m.] [main/WARN] Error loading class: fuzs/configmenusforge/client/gui/components/CustomBackgroundObjectSelectionList (java.lang.ClassNotFoundException: fuzs.configmenusforge.client.gui.components.CustomBackgroundObjectSelectionList)
+[11/12/2023 16:57:59 p. m.] [main/INFO] [MemoryLeakFix] Will be applying 3 memory leak fixes!
+[11/12/2023 16:57:59 p. m.] [main/INFO] [MemoryLeakFix] Currently enabled memory leak fixes: [targetEntityLeak, biomeTemperatureLeak, hugeScreenshotLeak]
+[11/12/2023 16:57:59 p. m.] [main/WARN] Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org.jetbrains.annotations.ApiStatus$Internal)
+[11/12/2023 16:57:59 p. m.] [main/INFO] Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.1).
+[11/12/2023 16:57:59 p. m.] [main/WARN] Found problematic active MixinExtras instance at ca.fxco.memoryleakfix.mixinextras (version 0.2.0-beta.8)
+[11/12/2023 16:57:59 p. m.] [main/WARN] Versions from 0.2.0-beta.1 to 0.2.0-beta.9 have limited support and it is strongly recommended to update.
+[11/12/2023 16:58:00 p. m.] [main/INFO] Injecting EMI API classes
+[11/12/2023 16:58:00 p. m.] [pool-5-thread-1/INFO] ModernFix reached bootstrap stage (17.18 s after launch)
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/INFO] Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/INFO] Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/INFO] Injecting BlockStateBase cache population hook into getAllFlags from com.abdelaziz.canary.mixin.util.block_tracking.BlockStateBaseMixin
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/WARN] Mixin com.unascribed.fabrication.mixin.g_weird_tweaks.entities_sink_in_falling_fluids.MixinEntity failed to postApply! Force-disabling *.entities_sink_in_falling_fluids
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/WARN] FabInjector failed to find injection point for net/minecraft/world/entity/Entity;m_204031_(Lnet/minecraft/tags/TagKey;D)Z	Lnet/minecraft/world/level/Level;m_6425_(Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/material/FluidState; located in com.unascribed.fabrication.mixin.g_weird_tweaks.entities_sink_in_falling_fluids.MixinEntity
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/WARN] ! Force-disabling *.entities_sink_in_falling_fluids
+[11/12/2023 16:58:01 p. m.] [pool-5-thread-1/WARN] @Redirect conflict. Skipping servercore.common.mixins.json:optimizations.ticking.chunk.random.ServerLevelMixin from mod servercore->@Redirect::servercore$replaceIceAndSnowCheck(Lnet/minecraft/util/RandomSource;I)I with priority 900, already redirected by snowrealmagic.mixins.json:ServerLevelMixin from mod snowrealmagic->@Redirect::cancelVanillaSnow(Lnet/minecraft/util/RandomSource;ILnet/minecraft/world/level/chunk/LevelChunk;I)I with priority 1000
+[11/12/2023 16:58:01 p. m.] Exception in thread "main" java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:32)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.run(Launcher.java:108)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.Launcher.main(Launcher.java:78)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.bootstraplauncher@1.1.2/cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141)
+[11/12/2023 16:58:01 p. m.] Caused by: java.lang.reflect.InvocationTargetException
+[11/12/2023 16:58:01 p. m.] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[11/12/2023 16:58:01 p. m.] 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[11/12/2023 16:58:01 p. m.] 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.17/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.17/net.minecraftforge.fml.loading.targets.CommonLaunchHandler.clientService(CommonLaunchHandler.java:99)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.17/net.minecraftforge.fml.loading.targets.CommonClientLaunchHandler.lambda$makeService$0(CommonClientLaunchHandler.java:25)
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30)
+[11/12/2023 16:58:01 p. m.] 	... 7 more
+[11/12/2023 16:58:01 p. m.] Caused by: java.lang.RuntimeException: java.lang.ClassFormatError: Illegal field modifiers in class net/minecraft/world/item/crafting/RecipeType: 0x9
+[11/12/2023 16:58:01 p. m.] 	at MC-BOOTSTRAP/fmlloader@1.20.1-47.2.17/net.minecraftforge.fml.loading.BackgroundWaiter.runAndTick(BackgroundWaiter.java:32)
+[11/12/2023 16:58:01 p. m.] 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.main(Main.java:151)
+[11/12/2023 16:58:01 p. m.] 	... 15 more
+[11/12/2023 16:58:01 p. m.] Caused by: java.lang.ClassFormatError: Illegal field modifiers in class net/minecraft/world/item/crafting/RecipeType: 0x9
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1012)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:119)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+[11/12/2023 16:58:01 p. m.] 	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[11/12/2023 16:58:01 p. m.] 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.core.registries.BuiltInRegistries.<clinit>(BuiltInRegistries.java:222)
+[11/12/2023 16:58:01 p. m.] 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.Bootstrap.m_135870_(Bootstrap.java:43)
+[11/12/2023 16:58:01 p. m.] 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.main.Main.lambda$main$0(Main.java:151)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[11/12/2023 16:58:01 p. m.] 	at java.base/java.lang.Thread.run(Thread.java:833)
+[11/12/2023 16:58:02 p. m.] Oh no. Minecraft crashed. Please check the logs for any errors and provide these logs when asking for support.
